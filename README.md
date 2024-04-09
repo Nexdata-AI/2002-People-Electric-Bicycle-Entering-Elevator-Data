@@ -23,7 +23,7 @@ surveillance cameras
 ## Data format
 .jpg, .mp4
 ## Annotation accuracy
-the accuracy of labels of gender, race, age, collecting scene and electric bicycle model are
+the accuracy of labels of gender, race, age, collecting scene and electric bicycle model are more than 97%
 
 # Licensing Information
 Commercial License
