@@ -2,7 +2,7 @@
 
 ## Description
 2,002 People - Electric Bicycle Entering Elevator Data. 2,002 people, 1 image and 4-5 videos were collected for each person. The data covers ranging from teenager to the elderly, the middle-aged and young people are the majorities. The data can be used for tasks such as electric bicycle detection, electric bicycle recognition.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1137?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1137?source=Github
 
 
 # Specifications
